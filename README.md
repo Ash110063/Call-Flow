@@ -48,7 +48,7 @@ node preview/build.mjs
 
 ## Proposal
 
-- `proposal/index.html`: the proposal site. Open it directly in a browser or host it as a static page. Its demo buttons link to the hosted live demo.
+- `proposal/index.html`: the proposal site. A copy in `public/proposal/` is served at `/proposal` on the deployed app. Its demo buttons link to https://call-flow-blue.vercel.app/.
 
 ## Design tokens
 
